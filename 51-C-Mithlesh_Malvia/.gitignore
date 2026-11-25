@@ -1,0 +1,24 @@
+# Compiled executables and object files
+*.exe
+*.out
+*.o
+*.obj
+a.out
+
+# Debug and build artifacts
+*.pdb
+*.ilk
+*.idb
+*.dSYM/
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
